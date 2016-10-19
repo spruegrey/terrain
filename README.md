@@ -1,2 +1,2 @@
-# terrain
-The great Spruegrey Terrain guide
+# Terrain
+The great Spruegrey Terrain guide.
